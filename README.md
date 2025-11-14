@@ -27,7 +27,7 @@ This project emphasizes speed, accessibility, and a delightful user experience.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/seyedahmaddv/irantasdir2.git
+git clone https://github.com/seyedahmaddv/irantasdir3.git
 cd irantasdir2
 npm install
 ```
@@ -71,7 +71,7 @@ Deploy anywhere that supports Docker: AWS ECS, Google Cloud Run, Azure, Digital 
 
 
 ## 🌐 Demo
-👉 [View the homepage](https://irantasdir2.vercel.app)
+👉 [View the homepage](https://irantasdir.ir)
 
 
 
