@@ -1,87 +1,87 @@
-# Welcome to React Router!
+# 🌍 Iran Tasdir
 
-A modern, production-ready template for building full-stack React applications using React Router.
+A modern single-page website built with **React** to showcase and promote Iranian products for global export.  
+This project emphasizes speed, accessibility, and a delightful user experience.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
 
-## Features
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+## ✨ Technologies Used
 
-## Getting Started
+- ⚛️ **React 19** – Core library for building the UI
+- 🔀 **React Router v7** – Routing and server-side rendering
+- 🎨 **TailwindCSS v4 + Tailwind Animate** – Utility-first styling and animations
+- 🧩 **Radix UI** – Accessible UI components (Navigation Menu, Dialog, Accordion, etc.)
+- 🎥 **Framer Motion** – Smooth and professional animations
+- 🗂 **Zustand** – Lightweight and powerful state management
+- ⚡️ **Vite v7** – Fast build tool and dev server
+- 🔒 **TypeScript v5** – Type safety for reliable development
+- 🛠 **Class Variance Authority (CVA), clsx, tailwind-merge** – Conditional styling helpers
+- 🐳 **Docker-ready** – Containerized deployment support
+- 🌐 **ESBuild** – Fast and optimized bundling
+
+
+
+## 🚀 Getting Started
 
 ### Installation
-
-Install the dependencies:
+Clone the repository and install dependencies:
 
 ```bash
+git clone https://github.com/seyedahmaddv/irantasdir2.git
+cd irantasdir2
 npm install
 ```
 
 ### Development
-
-Start the development server with HMR:
+Run the development server:
 
 ```bash
 npm run dev
 ```
 
-Your application will be available at `http://localhost:5173`.
+Your app will be available at 👉 `http://localhost:5173`
 
-## Building for Production
-
-Create a production build:
-
+### Production Build
 ```bash
 npm run build
 ```
 
-## Deployment
+
+
+## 📦 Deployment
+
+### Vercel Deployment
+This project is ready to deploy directly on **Vercel**. Connect your GitHub repository and select the branch you want to deploy.
 
 ### Docker Deployment
-
-To build and run using Docker:
-
 ```bash
-docker build -t my-app .
-
-# Run the container
-docker run -p 3000:3000 my-app
+docker build -t iran-tasdir .
+docker run -p 3000:3000 iran-tasdir
 ```
 
-The containerized application can be deployed to any platform that supports Docker, including:
+Deploy anywhere that supports Docker: AWS ECS, Google Cloud Run, Azure, Digital Ocean, Fly.io, Railway.
 
-- AWS ECS
-- Google Cloud Run
-- Azure Container Apps
-- Digital Ocean App Platform
-- Fly.io
-- Railway
 
-### DIY Deployment
 
-If you're familiar with deploying Node applications, the built-in app server is production-ready.
+## 🎨 Styling & Fonts
+- **Primary font:** Vazirmatn (Persian/Arabic script support)  
+- **Headline font:** Poppins  
+- Theme colors and design tokens are defined via **CSS Variables** in `tailwind.config.js`.
 
-Make sure to deploy the output of `npm run build`
 
-```
-├── package.json
-├── package-lock.json (or pnpm-lock.yaml, or bun.lockb)
-├── build/
-│   ├── client/    # Static assets
-│   └── server/    # Server-side code
-```
 
-## Styling
+## 🌐 Demo
+👉 [View the homepage](https://irantasdir2.vercel.app)
 
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
 
----
 
-Built with ❤️ using React Router.
+## 📬 Order Your React Single-Page Website
+Want a modern, single-page React website for your business?  
+Click below to message me directly on WhatsApp and let’s build it together:
+
+[![Order a React Website](https://img.shields.io/badge/Order%20React%20Website-WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/989034260454)
+
+
+
+## 🔗 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/seyedahmaddv)
