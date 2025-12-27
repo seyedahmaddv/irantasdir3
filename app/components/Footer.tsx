@@ -1,6 +1,6 @@
 import { useLanguageStore } from '../stores/languageStore';
 import { translations } from '../translations';
-import { Separator } from './ui/separator';
+import { Separator } from './ui/Separator';
 import { LanguageToggle } from './LanguageToggle';
 
 export function Footer() {
