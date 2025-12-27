@@ -3,8 +3,8 @@ import HomePage from "../components/HomePage";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "New React Router App" },
-    { name: "description", content: "Welcome to React Router!" },
+    { title: "Iran Tasdir" },
+    { name: "description", content: "Iranian Product Export!" },
   ];
 }
 
